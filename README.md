@@ -1,4 +1,4 @@
-# Dataquest--Birth-Dates-In-US
+# Dataquest Python Guided Projects
 Dataquest Data Analyst path guided project
 
-This was my first project utilizing Python.  It is a simple demonstration/guided exercise of how to read in a .csv to Python, view the contents, and do some very limited data manipulation.
+This is the repo for all of the Dataquest Data Analyst path guided projects I've completed.
